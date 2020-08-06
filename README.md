@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My name is Joel Vitor Torres and this is my Github page
+### My name is Joel Vitor Torres and welcome to my Github page
 
 - 🔭 I’m currently working on improving my development and interpersonal skills
 - 🌱 I’m currently learning web development
