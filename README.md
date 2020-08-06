@@ -1,5 +1,5 @@
-<h1>Hi there 👋, I'm Joel</h1>
-<h3>A young man who wants to change the world with his ideas</h3>
+<h1 align="center">Hi there 👋, I'm Joel</h1>
+<h3 align="center">A young man who wants to change the world with his ideas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joevtap" alt="joevtap" /> </p>
 
@@ -36,7 +36,7 @@
 
 <br>
 
-<p text-align="center">
+<p align="center">
     <a href="https://codepen.io/joevtap" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="joevtap" height="30"
             width="30" /></a>
