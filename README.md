@@ -3,7 +3,7 @@
 
 <br>
 
-#### What I'm working with:
+### What I'm working with:
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"
         alt="css3" width="40" height="40" /> <img
@@ -20,7 +20,7 @@
 
 <br>
 
-#### I little bit about me:
+### I little bit about me:
 
 <ul>
     <li> 🔭 I’m currently working on improving my development skills
