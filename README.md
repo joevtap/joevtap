@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Joel</h1>
-<h3 align="center">A young man who wants to change the world with his ideas</h3>
+<h1>Hi there 👋, I'm Joel</h1>
+<h3>A young man who wants to change the world with his ideas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joevtap" alt="joevtap" /> </p>
 
