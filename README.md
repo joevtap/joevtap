@@ -29,7 +29,7 @@
     </li>
     <li> ⚡ Fun fact: I can't start my day without listening to a specific song
     </li>
-    <li> 📫 How to reach me: joelvitortorres@gmail.com | @joevtap - in almost every social media
+    <li> 📫 How to reach me: <a href = "mailto: joelvitortorres@gmail.com"> e-mail </a> | @joevtap - in almost every social media
     </li>
     <!-- - 🤔 I’m looking for help with ... -->
 </ul>
