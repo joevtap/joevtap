@@ -19,11 +19,11 @@
 <br>
 
 <ul>
-    <li> 🔭 I’m currently working on improving my development and interpersonal skills
+    <li> 🔭 I’m currently working on improving my development skills
     </li>
     <li> 🌱 I’m currently learning web development
     </li>
-    <li> 👯 I’m looking to collaborate on useful projects that can really change lives
+    <li> 👯 I’m looking to collaborate on useful projects that can really help people
     </li>
     <li> 💬 Ask me about what can I do, and I'll answer: "give me time enough and I shall move the world"
     </li>
