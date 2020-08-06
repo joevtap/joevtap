@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Joel</h1>
 <h3 align="center">A young man who wants to change the world with his ideas</h3>
-
+![Gmail](https://img.shields.io/badge/-joelvitortorres@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joelvitortorres@gmail.com)
 <br>
 
 ### What I'm working with:
