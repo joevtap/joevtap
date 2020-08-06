@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on useful projects that can really change lives
 - 💬 Ask me about what can I do, and I'll answer: "give me time enough and I shall move the world"
 - 📫 How to reach me: joelvitortorres@gmail.com | @joevtap - in almost every social media
-- ⚡ Fun fact: I can't start my day without listening to a specific song
+- ⚡ Fun fact: I can't start my day without listening to a specific song &nbsp
 <!-- - 🤔 I’m looking for help with ... -->
