@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Joel</h1>
-<h3 align="center">A young man who wants to change the world with his ideas</h3>
+<h3 align="center">Someone who aways wants to learn and improve himself</h3>
 <a href = "mailto: joelvitortorres@gmail.com"><img src="https://img.shields.io/badge/-joelvitortorres@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joelvitortorres@gmail.com"></a>
 <br>
 
@@ -25,7 +25,7 @@
     </li>
     <li> 🌱 I’m currently learning web development
     </li>
-    <li> 👯 I’m looking to collaborate on useful projects that can really help people
+    <li> 👯 I’m looking to collaborate on projects that will give me real experience
     </li>
     <li> 💬 Ask me about what can I do, and I'll answer: "give me time enough and I shall move the world"
     </li>
