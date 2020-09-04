@@ -8,11 +8,13 @@
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"
         alt="css3" width="40" height="40" /> <img
         src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
-        width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"
+        width="40" height="40" /> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript"                 width="40" height="40" />
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"
         alt="sass" width="40" height="40" /> <img
         src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40"
         height="40" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> <img
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> <img
         src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40"
         height="40" />
 
