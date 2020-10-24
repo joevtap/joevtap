@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Joel</h1>
-<h3 align="center">A man who aways wants to learn and improve himself</h3>
+<h3 align="center">A man who always wants to learn and improve himself</h3>
 <a href = "mailto: joelvitortorres@gmail.com"><img src="https://img.shields.io/badge/-joelvitortorres@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joelvitortorres@gmail.com"></a>
 <br>
 
