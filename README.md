@@ -6,7 +6,7 @@
 ### What I'm working with:
 
 <p align="left"><img
-        src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="reactjs" width="40"
+        src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="reactjs" width="40"
         height="40" />
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript"                 width="40" height="40" />
         <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"
