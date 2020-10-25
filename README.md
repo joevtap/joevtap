@@ -38,6 +38,9 @@
     </li>
     <!-- - 🤔 I’m looking for help with ... -->
 </ul>
+<br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joevtap)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
