@@ -26,7 +26,7 @@
 <ul>
     <li> 🔭 I’m currently working on improving my development skills
     </li>
-    <li> 🌱 I’m currently learning web development
+    <li> 🌱 I’m currently learning web development (front and back-end) 
     </li>
     <li> 👯 I’m looking to collaborate on projects that will give me real experience
     </li>
