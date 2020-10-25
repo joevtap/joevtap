@@ -10,7 +10,10 @@
         height="40" />
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript"                 width="40" height="40" />
         <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"
-        alt="sass" width="40" height="40" /> <img
+        alt="sass" width="40" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
+        alt="nodejs" width="40" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
+        alt="postgresql" width="40" height="40" />
+        <img
         src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40"
         height="40" />
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> <img
