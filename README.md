@@ -24,16 +24,16 @@
 ### I little bit about me:
 
 <ul>
-    <li> 🔭 I’m currently working on improving my development skills
-    </li>
+ <!--   <li> 🔭 I’m currently working on improving my development skills
+    </li> -->
     <li> 🌱 I’m currently learning web development (front and back-end) 
     </li>
-    <li> 👯 I’m looking to collaborate on projects that will give me real experience
+    <li> 👯 I’m looking to collaborate on projects that will give me experience
     </li>
-    <li> 💬 Ask me about what can I do, and I'll answer: "give me time enough and I shall move the world"
-    </li>
-    <li> ⚡ Fun fact: I can't start my day without listening to a specific song
-    </li>
+ <!--   <li> 💬 Ask me about what can I do, and I'll answer: "give me time enough and I shall move the world"
+    </li> -->
+ <!--   <li> ⚡ Fun fact: I can't start my day without listening to a specific song
+    </li> -->
     <li> 📫 How to reach me: <a href = "mailto: joelvitortorres@gmail.com"> e-mail </a> | @joevtap - in almost every social media
     </li>
     <!-- - 🤔 I’m looking for help with ... -->
