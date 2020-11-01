@@ -28,7 +28,7 @@
     </li> -->
     <li> 🌱 I’m currently learning web development (front and back-end) 
     </li>
-    <li> 👯 I’m looking to collaborate on projects that will give me experience
+    <li> 🙋🏻‍♂️ I’m looking to collaborate on projects that will give me experience
     </li>
  <!--   <li> 💬 Ask me about what can I do, and I'll answer: "give me time enough and I shall move the world"
     </li> -->
