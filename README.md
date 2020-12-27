@@ -45,17 +45,8 @@
 <br>
 
 <p align="center">
-    <a href="https://codepen.io/joevtap" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="joevtap" height="30"
-            width="30" /></a>
-    <a href="https://twitter.com/joevtap" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joevtap" height="30"
-            width="30" /></a>
-    <a href="https://www.linkedin.com/in/joevtap/"
-        target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-            alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_top_card%3bcmmxp18uq3g3bky9zhh5oq%3d%3d"
-            height="30" width="30" /></a>
-    <a href="https://instagram.com/joevtap" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joevtap" height="30"
-            width="30" /></a>
+        <a href="https://codepen.io/joevtap" target="_blank">Codepen </a>
+    <a href="https://twitter.com/joevtap" target="_blank">| Twitter </a>
+    <a href="https://www.linkedin.com/in/joevtap/" target="_blank">| Linkedin </a>
+    <a href="https://instagram.com/joevtap" target="_blank">| Instagram</a>
 </p>
