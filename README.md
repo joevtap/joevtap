@@ -8,16 +8,15 @@
 <p align="left"><img
         src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="reactjs" width="40"
         height="40" />
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"
+        <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"
         alt="sass" width="40" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
         alt="nodejs" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
         alt="postgresql" width="40" height="40" />
         <img
-        src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="40"
         height="40" />
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> <img
-        src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40"
-        height="40" />
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="linux" width="40" />
 
 <br>
 
