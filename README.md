@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Joel</h1>
 <!-- <h3 align="center">A cool guy that always wants to learn</h3> -->
 <a href = "mailto: joelvitortorres@gmail.com"><img src="https://img.shields.io/badge/-joelvitortorres@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joelvitortorres@gmail.com"></a>
+<a href="https://twitter.com/joevtap" target="_blank"><img src="https://img.shields.io/badge/-Follow%20me%20on%20twitter-red"></a>
 <br>
 
 ### What I'm working with:
@@ -23,28 +24,23 @@
 ### I little bit about me:
 
 <ul>
- <!--   <li> 🔭 I’m currently working on improving my development skills
-    </li> -->
-    <li> 🌱 I’m currently learning web development (front and back-end) 
+    <li> 🔭 I’m currently working on improving my development skills
+    </li>
+    <li> 🌱 I’m currently learning web development
     </li>
     <li> 🙋🏻‍♂️ I’m looking to collaborate on projects that will give me experience
     </li>
- <!--   <li> 💬 Ask me about what can I do, and I'll answer: "give me time enough and I shall move the world"
-    </li> -->
- <!--   <li> ⚡ Fun fact: I can't start my day without listening to a specific song
-    </li> -->
     <li> 📫 How to reach me: <a href = "mailto: joelvitortorres@gmail.com"> e-mail </a> | @joevtap - in almost every social media
     </li>
-    <!-- - 🤔 I’m looking for help with ... -->
 </ul>
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joevtap&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joevtap&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
 <p align="center">
-        <a href="https://codepen.io/joevtap" target="_blank">Codepen </a>
+    <a href="https://codepen.io/joevtap" target="_blank">Codepen </a>
     <a href="https://twitter.com/joevtap" target="_blank">| Twitter </a>
     <a href="https://www.linkedin.com/in/joevtap/" target="_blank">| Linkedin </a>
     <a href="https://instagram.com/joevtap" target="_blank">| Instagram</a>
