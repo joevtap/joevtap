@@ -4,7 +4,7 @@
 <a href="https://twitter.com/joevtap" target="_blank"><img src="https://img.shields.io/badge/-Follow%20me%20on%20twitter-red"></a>
 <br>
 
-### What I'm working with:
+### What I'm learning:
 
 <p align="left"><img
         src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="reactjs" width="40"
