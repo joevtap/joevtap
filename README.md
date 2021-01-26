@@ -8,7 +8,7 @@
 <br>
 <p align="left">
 <h3>I little bit about me:</h3>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
     <p align="left">
         🔭 I’m currently working on improving my development skills
     </p>
