@@ -1,7 +1,5 @@
 ![banner](./githubbanner.png)
 
-<h1>Hi there, I'm Joel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
 <a href = "mailto: joelvitortorres@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/joevtap/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://codepen.io/joevtap" target="_blank"><img src="https://img.shields.io/badge/-Codepen-%23333?style=for-the-badge&logo=codepen&logoColor=white"></a>
