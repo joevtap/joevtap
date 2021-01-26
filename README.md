@@ -8,7 +8,7 @@
 
 <h3>I little bit about me:</h3>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" />
+<img src="https://64.media.tumblr.com/33e8448e57bd9622fe374de750b181b2/tumblr_nsjezcuZ7H1ri5cxko1_500.gif" min-width="400px" max-width="400px" width="400px" align="right"/>
 
 <p align="left">
     🔭 I’m currently working on improving my development skills
