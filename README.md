@@ -8,7 +8,7 @@
 <br>
 <p align="left">
 <h3>I little bit about me:</h3>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" />
     <p align="left">
         🔭 I’m currently working on improving my development skills
     </p>
@@ -21,4 +21,4 @@
     <p align="left">
         📫 How to reach me: <a href = "mailto: joelvitortorres@gmail.com"> e-mail </a> | @joevtap - in almost every social media
     </p>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joevtap&show_icons=true&t&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=joevtap&show_icons=true&t&theme=react"/>
