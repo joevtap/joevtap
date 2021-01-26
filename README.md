@@ -8,7 +8,7 @@
 
 <h3>I little bit about me:</h3>
 
-<img src="https://i.gifer.com/XVo6.gif" min-width="400px" max-width="400px" width="400px" align="right"/>
+<img src="https://i.gifer.com/XVo6.gif" width="400px" align="right"/>
 
 <p align="left">
     🔭 I’m currently working on improving my development skills
