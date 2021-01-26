@@ -22,6 +22,6 @@
 </p>
 <br/>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=joevtap&show_icons=true&t&theme=react"/>
-<a href="https://github.com/joevtap/100daysOfCode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joevtap&repo=100daysOfCode&theme=react&show_icons=true"/></a>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=joevtap&show_icons=true&t&theme=react"/>
+    <a href="https://github.com/joevtap/100daysOfCode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joevtap&repo=100daysOfCode&theme=react&                   show_icons=true"/></a>
 </p>
