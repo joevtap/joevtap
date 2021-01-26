@@ -8,18 +8,21 @@
 <br>
 <p align="left">
 <h3>I little bit about me:</h3>
-<ul>
-    <li> 🔭 I’m currently working on improving my development skills
-    </li>
-    <li> 🌱 I’m currently learning web development with the PERN stack
-    </li>
-    <li> 🙋🏻‍♂️ I’m looking to collaborate on projects that will give me experience
-    </li>
-    <li> 📫 How to reach me: <a href = "mailto: joelvitortorres@gmail.com"> e-mail </a> | @joevtap - in almost every social media
-    </li>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+    <p align="left">
+        🔭 I’m currently working on improving my development skills
+    </p>
+    <p align="left">
+        🌱 I’m currently learning web development with the PERN stack
+    </p>
+    <p align="left">
+        🙋🏻‍♂️ I’m looking to collaborate on projects that will give me experience
+    </p>
+    <p align="left">
+        📫 How to reach me: <a href = "mailto: joelvitortorres@gmail.com"> e-mail </a> | @joevtap - in almost every social media
+    </p>
 </ul>
 </p>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joevtap&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joevtap&show_icons=true&t&theme=react)](https://github.com/anuraghazra/github-readme-stats)
