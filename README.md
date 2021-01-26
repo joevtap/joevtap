@@ -21,8 +21,4 @@
     <p align="left">
         📫 How to reach me: <a href = "mailto: joelvitortorres@gmail.com"> e-mail </a> | @joevtap - in almost every social media
     </p>
-</ul>
-</p>
-<br>
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joevtap&show_icons=true&t&theme=react)](https://github.com/anuraghazra/github-readme-stats)
