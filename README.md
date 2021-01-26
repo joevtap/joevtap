@@ -8,8 +8,6 @@
 
 <h3>I little bit about me:</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=joevtap&repo=100daysOfCode&theme=react&show_icons=true" width="400px" align="right"/>
-
 <p align="left">
     🔭 I’m currently working on improving my development skills
 </p>
@@ -23,4 +21,7 @@
     📫 How to reach me: <a href = "mailto: joelvitortorres@gmail.com"> e-mail </a> | @joevtap - in almost every social media
 </p>
 <br/>
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=joevtap&show_icons=true&t&theme=react"/>
+<a href="https://github.com/joevtap/100daysOfCode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joevtap&repo=100daysOfCode&theme=react&show_icons=true" height="195px"/></a>
+</p>
