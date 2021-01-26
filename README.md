@@ -1,4 +1,4 @@
-![header](./githubheader.png)
+![banner](./githubbanner.png)
 
 <h1>Hi there, I'm Joel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
