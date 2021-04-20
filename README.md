@@ -5,7 +5,7 @@ let joevtap = {
     age: 18,
     country: 'Brazil',
     city: 'Belo Horizonte, MG',
-    stack: ['HTML','SASS','Javascript','PostgreSQL', 'Express', 'React', 'NodeJS'],
+    stack: ['HTML','SASS','Javascript','PostgreSQL', 'Express', 'React', 'Svelte', 'NodeJS'],
     interestedIn: ['Python', 'Flask', 'Django', 'Vue'],
     hobbies: ['Chess', 'Anime', 'Learning Japanese', 'Meet cool people']
 };
