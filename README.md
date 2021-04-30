@@ -1,4 +1,4 @@
-![banner](./githubbanner.png)
+![banner](./githubbanner.jpg)
 
 ```javascript
 let joevtap = {
