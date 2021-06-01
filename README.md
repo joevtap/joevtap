@@ -33,3 +33,4 @@ let joevtap = {
 </p>
 <br/>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=joevtap&show_icons=true&t&theme=react"/>
+    ![Snake animation](https://github.com/joevtap/joevtap/blob/output/github-contribution-grid-snake.svg)
