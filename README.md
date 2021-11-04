@@ -5,9 +5,10 @@ let joevtap = {
     age: 18,
     country: 'Brazil',
     city: 'Itajubá, MG',
-    stack: ['HTML','SASS','Javascript','MongoDB', 'Express', 'React', 'Svelte', 'NodeJS'],
-    interestedIn: ['Python', 'Flask', 'Django', 'Vue'],
-    hobbies: ['Chess', 'Anime', 'Learning Japanese', 'Meet cool people']
+    stack: ['NodeJS', 'Express', 'MongoDB', 'NextJS', 'Angular', 'Typescript'],
+    otherTechs: ['Python', 'C', 'Flask', 'Svelte'],
+    interestedIn: ['Django', 'NestJS', 'Postgresql', 'Vue', 'Flutter', 'Kotlin'],
+    hobbies: ['Anime', 'I\'m lacking of hobbies rn lol']
 };
 ```
 
