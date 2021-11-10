@@ -8,7 +8,7 @@ let joevtap = {
     stack: ['NodeJS', 'Express', 'MongoDB', 'NextJS', 'Angular', 'Typescript'],
     otherTechs: ['Python', 'C', 'Flask', 'Svelte'],
     interestedIn: ['Django', 'NestJS', 'Postgresql', 'Vue', 'Flutter', 'Kotlin'],
-    hobbies: ['Anime', 'I\'m lacking of hobbies rn lol']
+    hobbies: ['Anime', 'I\'m lacking hobbies rn lol']
 };
 ```
 
