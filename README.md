@@ -2,12 +2,12 @@
 
 ```javascript
 let joevtap = {
-    age: 18,
+    age: 19,
     country: 'Brazil',
     city: 'Itajubá, MG',
     stack: ['NodeJS', 'Express', 'MongoDB', 'NextJS', 'Angular', 'Typescript'],
-    otherTechs: ['Python', 'C', 'Flask', 'Svelte'],
-    interestedIn: ['Django', 'NestJS', 'Postgresql', 'Vue', 'Flutter', 'Kotlin'],
+    otherTechs: ['Python', 'C', 'Flask', 'FastAPI', 'Svelte'],
+    interestedIn: ['Eletronics', 'Django', 'NestJS', 'Postgresql', 'Vue', 'C++', 'Rust', 'Flutter', 'Kotlin'],
     hobbies: ['Anime', 'I\'m lacking hobbies rn lol']
 };
 ```
@@ -24,10 +24,10 @@ let joevtap = {
     🔭 I’m currently working on improving my development skills
 </p>
 <p align="left">
-    🌱 I’m currently learning web development with the PERN stack
+    🌱 I’m currently getting real experience in web development projects
 </p>
 <p align="left">
-    🙋🏻‍♂️ I’m looking to collaborate on projects that will give me experience
+    🙋🏻‍♂️ I’m looking to collaborate and to start innovating projects
 </p>
 <p align="left">
     📫 How to reach me: <a href = "mailto: joelvitortorres@gmail.com"> e-mail </a> | @joevtap - in almost every social media
