@@ -24,7 +24,5 @@ let joevtap = {
 <p align="left">
     📫 How to reach me: <a href = "mailto: joelvitortorres@gmail.com"> e-mail </a> | @joevtap - in almost every social media
 </p>
-<br/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=joevtap&show_icons=true&t&theme=react"/>
 
 ![Snake animation](https://github.com/joevtap/joevtap/blob/output/github-contribution-grid-snake.svg)
