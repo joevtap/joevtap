@@ -5,10 +5,9 @@ let joevtap = {
     age: 19,
     country: 'Brazil',
     city: 'Itajubá, MG',
-    stack: ['NodeJS', 'Express', 'MongoDB', 'NextJS', 'Angular', 'Typescript'],
-    otherTechs: ['Python', 'C', 'Flask', 'FastAPI', 'Svelte'],
-    interestedIn: ['Eletronics', 'Django', 'NestJS', 'Postgresql', 'Vue', 'C++', 'Rust', 'Flutter', 'Kotlin'],
-    hobbies: ['Anime', 'I\'m lacking hobbies rn lol']
+    interests: ['User Exeperience', 'Developer Experience', 'Cloud Computing', 'Edge Computing', 'Data Science', 'Machine Learning'],
+    languages: ['C', 'Python', 'Typescript'],
+    hobbies: ['Anime', 'Gaming', 'Creating anything interesting'],
 };
 ```
 
@@ -21,13 +20,7 @@ let joevtap = {
 <h3>I little bit about me:</h3>
 
 <p align="left">
-    🔭 I’m currently working on improving my development skills
-</p>
-<p align="left">
-    🌱 I’m currently getting real experience in web development projects
-</p>
-<p align="left">
-    🙋🏻‍♂️ I’m looking to collaborate and to start innovating projects
+    🔭 I’m currently working on my UX Design portfolio and my feature rich CLI called "faisca"
 </p>
 <p align="left">
     📫 How to reach me: <a href = "mailto: joelvitortorres@gmail.com"> e-mail </a> | @joevtap - in almost every social media
