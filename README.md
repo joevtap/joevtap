@@ -5,7 +5,7 @@ let joevtap = {
     age: 19,
     country: 'Brazil',
     city: 'Itajubá, MG',
-    interests: ['User Exeperience', 'Developer Experience', 'Cloud Computing', 'Edge Computing', 'Data Science', 'Machine Learning'],
+    interests: ['User Exeperience', 'Developer Experience', 'Cloud Computing', 'Edge Computing', 'DevOps', 'Cybersecurity'],
     languages: ['C', 'Python', 'Typescript'],
     hobbies: ['Anime', 'Gaming', 'Creating anything interesting'],
 };
