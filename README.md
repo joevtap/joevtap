@@ -1,5 +1,7 @@
 ![banner](./cover.jpg)
 
+![Metrics](/github-metrics.svg)
+
 ```javascript
 let joevtap = {
     age: 19,
@@ -24,5 +26,3 @@ let joevtap = {
 <p align="left">
     📫 How to reach me: <a href = "mailto: joelvitortorres@gmail.com"> e-mail </a> | @joevtap - in almost every social media
 </p>
-
-![Snake animation](https://github.com/joevtap/joevtap/blob/output/github-contribution-grid-snake.svg)
