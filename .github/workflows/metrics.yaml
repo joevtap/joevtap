@@ -17,6 +17,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
         # Options
+          template: classic
+          base: header
           config_timezone: America/Sao_Paulo
           plugin_achievements: yes
           plugin_achievements_display: compact
