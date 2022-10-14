@@ -1,5 +1,3 @@
-![banner](./cover.jpg)
-
 <img src="./github-metrics.svg"/>
 
 
