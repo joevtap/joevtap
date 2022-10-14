@@ -17,9 +17,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
         # Options
-          user: joevtap
-          template: classic
-          base: ""
           config_timezone: America/Sao_Paulo
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -35,8 +32,4 @@ jobs:
           plugin_anilist_user: joevtap
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_tweets: yes
-          plugin_tweets_attachments: yes
-          plugin_tweets_limit: 2
-          plugin_tweets_user: joevtap
 
