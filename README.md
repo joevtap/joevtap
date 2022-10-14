@@ -1,6 +1,7 @@
 ![banner](./cover.jpg)
 
-![Metrics](/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/joevtap?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&anilist=1&isocalendar=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&anilist=false&anilist.user=joevtap&anilist.medias=anime&anilist.sections=favorites%2C%20characters&anilist.limit=2&anilist.limit.characters=5&anilist.shuffle=true&config.timezone=America%2FSao_Paulo)
+
 
 ```javascript
 let joevtap = {
