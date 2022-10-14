@@ -1,6 +1,6 @@
 ![banner](./cover.jpg)
 
-<img src="./github-metrics.svg" width="100%"/>
+<img src="./github-metrics.svg"/>
 
 
 ```javascript
