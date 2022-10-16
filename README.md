@@ -1,6 +1,16 @@
 pfp by [xilmo](https://twitter.com/xilmo1)
 
-<img src="./github-metrics.svg"/>  
+<img src="./metrics-main.svg"/>
+
+<details>
+    <summary>Achievements</summary>
+    <img src="./metrics-achievements.svg"/>
+</details>
+
+<details>
+    <summary>Anime stuff</summary>
+    <img src="./metrics-anilist.svg"/>
+</details>
 
 <div align="center">
 
