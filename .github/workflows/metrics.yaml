@@ -18,7 +18,6 @@ jobs:
           filename: "metrics-main.svg"
           
           template: classic
-          config_display: columns
           base: header
           config_timezone: America/Sao_Paulo
           plugin_habits: yes
@@ -35,7 +34,6 @@ jobs:
           filename: "metrics-achievements.svg"
           
           template: classic
-          config_display: columns
           base: ""
           config_timezone: America/Sao_Paulo
           plugin_achievements: yes
@@ -46,10 +44,10 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with: 
+          token: NOT_NEEDED
           filename: "metrics-anilist.svg"
           
           template: classic
-          config_display: columns
           base: ""
           base_skip: yes
           config_timezone: America/Sao_Paulo
