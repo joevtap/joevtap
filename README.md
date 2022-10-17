@@ -1,5 +1,3 @@
-<img src="./Logo.svg" />
-
 pfp by [xilmo](https://twitter.com/xilmo1)
 
 <img src="./metrics-main.svg"/>
