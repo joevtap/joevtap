@@ -1,11 +1,8 @@
 <svg width="86" height="32" viewBox="0 0 86 32" fill="none" xmlns="http://www.w3.org/2000/svg">
 <style>
   path {
-    fill: #131314;
-  }
-  
-  @media (prefers-color-scheme: dark) {
-    fill: #FFF8EA;
+    fill: white;
+    mix-blend-mode: difference;
   }
 </style>
 <path d="M0 28V0H28V4H32V8H28V4H4V28H8V32H4V28H0Z" fill="#131314"/>
