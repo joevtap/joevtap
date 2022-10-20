@@ -8,9 +8,15 @@ pfp by [xilmo](https://twitter.com/xilmo1)
 </details>
 
 <details>
+    <summary>Holopin</summary>
+    <img src="https://holopin.me/joevtap"/>
+</details>
+
+<details>
     <summary>Anime stuff</summary>
     <img src="./metrics-anilist.svg"/>
 </details>
+
 
 <div align="center">
 
