@@ -1,6 +1,6 @@
 <a href="https://www.codewars.com/users/joevtap"><img src="https://www.codewars.com/users/joevtap/badges/small"/></a>
 
-pfp by [xilmo](https://twitter.com/xilmo1)
+pfp: Yamada Ryo from [ぼっちだろっく](https://bocchi.rocks/)
 
 <img src="./metrics-main.svg"/>
 
