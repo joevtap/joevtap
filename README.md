@@ -1,4 +1,4 @@
-<a href="https://www.codewars.com/users/joevtap"><img src="https://www.codewars.com/users/phonyy/badges/small"/></a>
+<a href="https://www.codewars.com/users/phonyy"><img src="https://www.codewars.com/users/phonyy/badges/small"/></a>
 
 pfp: Yamada Ryo from [ぼっちだろっく](https://bocchi.rocks/)
 
