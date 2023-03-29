@@ -41,6 +41,6 @@ curl -sL "https://github.com/joevtap.gpg" | gpg --import
 ```
 
 ```console
-06EC 3F1C 4ECF 4829 8CFE 4C5B 0886 6BB7 F4A2 A929
+E014 C14E 6F45 CF49 E772  2477 32A8 02E2 B1D5 00EF
 ```
 </div>
