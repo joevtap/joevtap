@@ -4,6 +4,7 @@
     <samp>
       [<a href="mailto:joelvitortorres@gmail.com">e-mail</a>]
       [<a href="https://matrix.to/#/@joevtap0:matrix.org">matrix</a>]
+      [<a href="https://discord.com/channels/@me/227557274091126785">discord</a>]
     </samp>
 </p>
 
