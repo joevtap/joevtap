@@ -1,5 +1,9 @@
 <div align="center">
 
+<pre><i>we conjure the spirits of the computer with our spells</i></pre>
+
+<h2></h2><br>
+
 <p align="center">
     <samp>
       [<a href="mailto:joelvtorres2024@gmail.com">e-mail</a>]
@@ -10,11 +14,11 @@
 
 <h2></h2><br>
 
-```
+```sh
 curl -sL "https://github.com/joevtap.gpg" | gpg --import
 ```
 
-```console
-028E B66B BBC5 8D47 660C  3800 9BF3 AEA2 47CE 677C
+```sh
+EB30 F8BE 8386 279C A2F1  C184 D7F4 70E0 EACA 7422
 ```
 </div>
