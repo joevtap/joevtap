@@ -18,7 +18,7 @@
 curl -sL "https://github.com/joevtap.gpg" | gpg --import
 ```
 
-```sh
+```console
 EB30 F8BE 8386 279C A2F1  C184 D7F4 70E0 EACA 7422
 ```
 </div>
