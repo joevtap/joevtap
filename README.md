@@ -4,12 +4,13 @@
 
 <h2></h2><br>
 
+<samp># links</samp>
+
 <p align="center">
     <samp>
       <a href="https://matrix.to/#/#se-study-group:matrix.org">SE Study Group (on matrix)</a>
     </samp>
 </p>
-<br>
 
 <p align="center">
     <samp>
@@ -18,6 +19,12 @@
       [<a href="https://discord.com/channels/@me/227557274091126785">discord</a>]
     </samp>
 </p>
+
+<br>
+
+<samp># about</samp>
+
+<samp>software engineering intern - computer information systems student - knowledge seeker</samp>
 
 <h2></h2><br>
 
