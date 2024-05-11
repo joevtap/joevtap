@@ -2,7 +2,7 @@
 
 <pre><i>we conjure the spirits of the computer with our spells</i></pre>
 
-<h2></h2><br>
+<h2></h2>
 
 <samp># links</samp>
 
