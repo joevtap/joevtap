@@ -6,7 +6,7 @@
 
 <p align="center">
     <samp>
-      <a href="https://matrix.to/#/!VPUyMIEeUheaTArtXp:matrix.org">Study Group (on matrix)</a>
+      <a href="https://matrix.to/#/#se-study-group:matrix.org">SE Study Group (on matrix)</a>
     </samp>
 </p>
 <br>
