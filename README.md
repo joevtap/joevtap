@@ -8,7 +8,7 @@
 
 <p align="center">
     <samp>
-      <a href="https://matrix.to/#/#se-study-group:matrix.org">SE Study Group (on matrix)</a>
+      <a href="https://matrix.to/#/#knowledge-seekers:matrix.org">Knowledge Seekers (on matrix)</a>
     </samp>
 </p>
 
