@@ -25,7 +25,7 @@
 
 <samp># about</samp>
 
-<samp>software engineering intern - computer information systems student - knowledge seeker</samp>
+<samp>backend software engineer - computer information systems student - knowledge seeker</samp>
 
 <h2></h2><br>
 
